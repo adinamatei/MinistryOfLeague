@@ -138,6 +138,7 @@ div.row {
     margin-right: -5px;
     margin-left: -5px;
 }
+
 div.col-md-1, div.col-md-2,div.col-md-3, div.col-md-4, 
 div.col-md-5, div.col-md-5, div.col-md-7, div.col-md-8,
 div.col-md-9, div.col-md-10, div.col-md-11, div.col-md-12 {
@@ -348,7 +349,7 @@ div.thumbnail.leftPosition {
 .lastRow p {
 	color: #7d7d7d;
 	font-size: 12px;
-	padding: 0 200px;
+	padding: 0 20px;
 }
 
 
