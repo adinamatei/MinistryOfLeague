@@ -1,5 +1,5 @@
-# MinistryOfLeague
+# MinistryOfLeague with Bootstrap framework
 
-MinistryOfLeague with Bootstrap framework
+Source [here](https://d13yacurqjgara.cloudfront.net/users/182229/screenshots/1715917/attachments/274719/Ministry-of-League---Home.png).
 
-Here is the [original](https://d13yacurqjgara.cloudfront.net/users/182229/screenshots/1715917/attachments/274719/Ministry-of-League---Home.png) for comparison
+Clone this repository and open `index.html` in your browser.
